@@ -9,10 +9,7 @@ select
 		when flags.id between 16000000000 and 16999999999 then 'MI'
 		when flags.id between 17000000000 and 17999999999 then 'MN'
 		when flags.id between 19000000000 and 19999999999 then 'PA'
-		when flags.id between 21000000000 and 21999999999 then 'VA'
 		when flags.id between 18000000000 and 18999999999 then 'WI'
-		when flags.id between 4000000000 and 4999999999 then 'CO'
-		when flags.id between 10000000000 and 10999999999 then 'OOC'
 	else 'error' end as state,
   turf.name as turf,
   flags.id as flag_id,
