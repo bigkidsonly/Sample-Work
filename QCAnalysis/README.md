@@ -11,7 +11,7 @@ Queries and projects were authored by Amber Medina, owner of this repository. Pl
 
 - [Ready for Delivery by Turf](https://github.com/bigkidsonly/SampleQueries/blob/main/QCAnalysis/ReadyforDeliverybyTurf.sql) populates `delivery_auto` table
 
-- [Ready for Coversheet](https://github.com/bigkidsonly/SampleQueries/blob/main/QCAnalysis/ReadyforCoversheet.sql) populates 'weird_statuses` table
+- [Ready for Coversheet](https://github.com/bigkidsonly/SampleQueries/blob/main/QCAnalysis/ReadyforCoversheet.sql) populates `weird_statuses` table
 
 - [Forms Over Turnaround](https://github.com/bigkidsonly/SampleQueries/blob/main/QCAnalysis/FormsOverTurnaround.sql) populates `turnaround` table
 
